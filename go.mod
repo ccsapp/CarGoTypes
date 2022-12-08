@@ -1,4 +1,4 @@
-module DCarGoTypes
+module git.scc.kit.edu/cm-tm/cm-team/projectwork/pse/domain/d-cargotypes.git
 
 go 1.19
 
