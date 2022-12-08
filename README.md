@@ -1,6 +1,6 @@
 # Go Types of D-Car
 
-## How-To-Use
+## How To Use
 Import the module with "git.scc.kit.edu/cm-tm/cm-team/projectwork/pse/domain/d-cargotypes.git".
 To tell go to download from `git.scc.kit.edu` provide the environment variable `GOPRIVATE=git.scc.kit.edu`.
 Further, provide authentication via either 
