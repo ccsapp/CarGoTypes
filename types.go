@@ -1,4 +1,4 @@
-package DCarGoTypes
+package CarGoTypes
 
 import (
 	openapiTypes "github.com/deepmap/oapi-codegen/pkg/types"

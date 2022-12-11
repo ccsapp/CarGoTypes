@@ -1,4 +1,4 @@
-# Go Types of D-Car
+# Go Types of Car
 
 ## How To Use
 Import the module with "git.scc.kit.edu/cm-tm/cm-team/projectwork/pse/domain/d-cargotypes.git".
