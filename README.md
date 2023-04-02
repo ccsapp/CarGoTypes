@@ -7,5 +7,5 @@ In particular, they were derived from the
 ## Usage
 To use the types in your project, add the following to your `go.mod` file:
 ```
-require github.com/ccsapp/cargotypes v1.0.0
+require github.com/ccsapp/cargotypes v1.0.1
 ```
