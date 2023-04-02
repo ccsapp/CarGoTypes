@@ -1,4 +1,4 @@
-package CarGoTypes
+package cargotypes
 
 import (
 	openapiTypes "github.com/deepmap/oapi-codegen/pkg/types"

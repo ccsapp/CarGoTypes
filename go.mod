@@ -1,4 +1,4 @@
-module github.com/ccsapp/CarGoTypes
+module github.com/ccsapp/cargotypes
 
 go 1.19
 
